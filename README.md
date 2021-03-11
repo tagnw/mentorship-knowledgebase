@@ -1,11 +1,11 @@
 # TAG Mentorship Knowledgebase
 
-View the Knowledgebase index via
+View the knowledgebase index via
 [Github Pages](https://tagnw.github.io/mentorship-knowledgebase/)
 or the [Github Repository](index.md).
 
 Looking to contribute to the knowledge base? View the
-[contribution_guide](contribution_guide.md).
+[Contribution Guide](contribution_guide.md).
 
 ## Welcome
 
