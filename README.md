@@ -1,9 +1,12 @@
+# TAG Mentorship Knowledgebase
 
-# TAG NW Mentorship Program
+[View Live Pages Here](https://tagnw.github.io/mentorship-knowledgebase/)
 
-## Knowledgebase and Resources
+Looking to contribute to the knowledge base? View
+[Contributing](CONTRIBUTING.md).
 
-To see the live pages, [go here](https://tagnw.github.io/mentorship-kb/)
+## Welcome
 
+## About TAG
 
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/tagnw/mentorship-kb)
+## TAG Resources
