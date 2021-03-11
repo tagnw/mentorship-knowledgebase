@@ -97,7 +97,7 @@ Alice->Bob: Where have you been?
 
 - Embed YouTube Videos
 
-{%youtube PJuNmlE74BQ %}
+{ % youtube PJuNmlE74BQ % }
 
 > Put your cursor right behind an empty bracket {} :arrow_left: and see all your choices.
 
