@@ -1,4 +1,4 @@
-# My first HackMD note (change me!)
+# Example of formatting etc
 
 ###### tags: `Tag(change me!)`
 
