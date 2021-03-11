@@ -2,12 +2,4 @@
 
 ## Knowledgebase and Resources
 
-(quick edit test - please ignore)
-
-TBD...
-
-
-
-
-
-[![hackmd-github-sync-badge](https://hackmd.io/Q7VRYQg5Q76aRks8OJSdfg/badge)](https://hackmd.io/Q7VRYQg5Q76aRks8OJSdfg)
+To see the live pages, [go here](https://tagnw.github.io/mentorship-kb/)
