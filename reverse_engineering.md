@@ -37,8 +37,6 @@
 
 ### Hardware Tools
 
-TBD
-
 ### Software Tools
 
 * Disassembler
@@ -52,8 +50,6 @@ TBD
 ## Resources
 
 ### Articles
-
-TBD
 
 ### Books
 
@@ -76,8 +72,6 @@ TBD
 * [RELounge Reddit](https://www.reddit.com/r/RELounge/)
 
 ### Other Resources
-
-TBD
 
 ## Knowledgebase Contributors
 
