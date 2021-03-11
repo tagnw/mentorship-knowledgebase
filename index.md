@@ -21,5 +21,5 @@ program. For more information, please see the project [README](README.md).
 
 ## Other
 
-* [Contributing](CONTRIBUTING.md)
+* [Contribution Guide](contribution_guide.md)
 * [Local Resources](local_resources.md)
