@@ -1,7 +1,8 @@
-# Contributing
+# Contribution Guide
 
 * [Recommendations](#recommendations)
 * [What is the structure of the knowledgebase?](#what-is-the-structure-of-the-knowledgebase)
+  * [What are the differences between the types of resources?](#what-are-the-differences-between-the-types-of-resources)
 * [How to add articles and books](#how-to-add-articles-and-books)
 
 ## Recommendations
