@@ -24,8 +24,10 @@
       <div id="banner">
         <span id="logo"></span>
 
-        <a href="{{ site.baseurl }}" class="button"><strong>Home</strong></a>
-        <a href="{{ site.github.repository_url }}" class="button fork"><strong>Contribute On GitHub</strong></a>
+        <div class="fork">
+          <a href="{{ site.baseurl }}" class="button"><strong>Home</strong></a>
+          <a href="{{ site.github.repository_url }}" class="button"><strong>Contribute On GitHub</strong></a>
+        </div>
         {% if site.show_downloads %}
           <div class="downloads">
             <span>Downloads:</span>
