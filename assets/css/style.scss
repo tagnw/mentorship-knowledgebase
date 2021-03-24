@@ -4,5 +4,5 @@
 @import "{{ site.theme }}";
 
 #logo {
-  background: url(../images/tag-logo.png) !important; // FIXME: don't do this
+  background: no-repeat center/100% url(../images/tag-logo.png) !important; // FIXME: don't do this
 }
