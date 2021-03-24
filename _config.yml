@@ -1,4 +1,5 @@
-theme: jekyll-theme-slate
-title: TAG NW Mentorship Knowledgebase
-description: Mentorship program general knowledge-base and materials (public access)
+theme: jekyll-theme-leap-day
+title: TAG Mentorship Knowledgebase
+description: Mentorship program general knowledgebase and materials (public access)
+show_downloads: false
 google_analytics: G-SNC18MHKV1
