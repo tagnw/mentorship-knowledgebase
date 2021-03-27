@@ -5,7 +5,6 @@
   * [Recommended Skills](#recommended-skills)
 * [Tools](#tools)
   * [Hardware Tools](#hardware-tools)
-    * [Hardware Providers](#hardware-providers)
   * [Software Tools](#software-tools)
 * [Resources](#resources)
   * [Articles](#articles)
@@ -25,7 +24,7 @@
 
 ### Hardware Tools
 
-#### Hardware Providers
+**Hardware Providers:**
 
 * [SEEED Studios](https://www.seeedstudio.com/)
 * [Adafruit](https://www.adafruit.com/)
