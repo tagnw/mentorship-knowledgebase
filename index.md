@@ -1,7 +1,7 @@
 # TAG Mentorship Knowledgebase
 
 This is the public TAG Mentorship Knowledgebase for use in the TAG Mentorship
-program. For more information, please see the project [README](README.md).
+program. For more information, please see the project [README](readme.md).
 
 ## Professional Development Topics
 
