@@ -7,6 +7,7 @@ program. For more information, please see the project [README](README.md).
 
 * [Career](career.md)
 * [Communication](communication.md)
+  * [Open Source](open_source.md)
 * [Leadership](leadership.md)
 
 ## Disciplines

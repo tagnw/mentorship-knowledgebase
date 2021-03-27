@@ -1,4 +1,4 @@
-# Communication
+# Open Source
 
 * [Recommendations](#recommendations)
   * [General Recommendations](#general-recommendations)
