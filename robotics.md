@@ -24,7 +24,7 @@
 
 ### Hardware Tools
 
-**Hardware Providers:**
+#### Hardware Providers:
 
 * [SEEED Studios](https://www.seeedstudio.com/)
 * [Adafruit](https://www.adafruit.com/)
