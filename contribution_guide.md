@@ -8,7 +8,7 @@
 
 ## How to edit or add files
 
-### But first...resources for understanding the GitHub's Markdown editing language
+### But first...resources for understanding GitHub's Markdown editing language
 GitHub uses its own version of Markdown, which is a way to format text using control characters/symbols.
 Here is a tutorial on Markdown use:  https://guides.github.com/features/mastering-markdown/
 
