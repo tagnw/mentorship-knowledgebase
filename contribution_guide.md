@@ -16,7 +16,7 @@ You can click on the following link to skip to step 4 of the process:
 1. [Click on `Add file`](#add-file-step-2)
 1. [Click on `Create new file`](#add-file-step-3)
 1. [Begin adding your file](#add-file-step-4)
-   * **a.** Enter in the filename you would like to use. `/` will create a folder: `folder-name-1/folder-name-2/file_name.md`
+   * **a.** Enter in the filename that you would like to use. A forward slash `/` will create a folder. Example: `folder-name/file_name.md` will create the file "file_name.md" in folder "folder-name".
    * **b.** Type the contents of the file, see the rest of the contribution guide for formatting recommendations.
    * **c.** To preview what the file will look like when rendered, click on `Preview`.
 1. [When ready to add your changes, scroll down to commit them.](#add-file-step-5)
@@ -37,11 +37,15 @@ You can click on the following link to skip to step 4 of the process:
 
 TODO
 
-## Recommendations
+## General Recommendations
+
+* When in doubt, just contribute and don't worry about formatting.
+
+## Naming Conventions
 
 * Always spell out abbreviations when used for the first time on a page.
-* Use underscore for spaces in filenames within the Knowledgebase.
-* When in doubt, just contribute and don't worry about formatting.
+* Use a hyphen instead of a space in folder names.
+* Use an underscore instead of a space in filenames.
 
 ## What is the structure of the knowledgebase?
 
@@ -55,18 +59,29 @@ TODO
 
 ## How to add articles, books, and websites
 
+General Recommendations:
+* For expanded commentary please create a new page.
+* Crossposting is encouraged. Please use the Article Format below.
+* Any forprofit interest must be acknowledged in the Description.
+
+Article and Media (Audio, Video) Format:
+* Title
+* Author
+* Official Link
+* Description (<100 words)
+* Commentary (<100 words)
+
 Book Format:
 * Title
 * Author
 * ISBN-13
-* Official Link (Goodreads?)
-* Purchase Link (Amazon Smile)
-* Description/Book summary (100 words)
-* Commentary/why to read (100 words)
+* Official Website or Goodreads Link
+* Purchase Link (Nonprofit or Charity links such as Amazon Smile, if possible.)
+* Description (<100 words)
+* Commentary (<100 words)
 
-Article Format
-* Title
-* Author
-* Official Link
-* Description (100 words)
-* Commentary (100 words)
+Website and Online Community Format:
+* Name
+* Link
+* Description (<100 words)
+* Commentary (<100 words)
