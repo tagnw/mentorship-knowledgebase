@@ -2,15 +2,39 @@
 
 * [Recommendations](#recommendations)
 * [What is the structure of the knowledgebase?](#what-is-the-structure-of-the-knowledgebase)
-  * [What are the differences between the types of resources?](#what-are-the-differences-between-the-types-of-resources)
+   * [What are the differences between the types of resources?](#what-are-the-differences-between-the-types-of-resources)
 * [How to add articles, books, and websites](#how-to-add-articles-books-and-websites)
 
-## How to add/edit files
+## How to edit or add files
+
+### Editing an existing file
+
+If you want to contribute to an existing file, follow this process:
+
+1. Go to the root of the repository: [tagnw/mentorship-knowledgebase](https://github.com/tagnw/mentorship-knowledgebase)
+1. [Click on the file you wish to edit](#edit-file-step-2)
+1. [Click on the edit icon](#edit-file-step-3)
+1. [Make your changes](#edit-file-step-4)
+   * **a.** Use the file editor to make your changes
+   * **b.** Preview your changes by clicking `Preview Changes`
+1. [When ready to add your changes, scroll down to commit them.](#edit-file-step-5)
+   * **a.** A short (~50 characters) description of your changes, or you can leave this blank.
+   * **b.** Optionally, you can add some additional information on what you're changing. (this may be as long as you want)
+   * **c.** Choose which email you want to commit with.
+      * **This email will be visible to the public. Do not use a private email address!**
+      * You can add/change your email addresses under your account settings.
+   * **d.** You may leave this unchanged.
+   * **e.** When ready, click `Commit changes`
+
+<img id='edit-file-step-2' src='assets/images/edit-file-step-2.png' alt='Screenshot of Editing a file - step 2'>
+<img id='edit-file-step-3' src='assets/images/edit-file-step-3.png' alt='Screenshot of Editing a file - step 3'>
+<img id='edit-file-step-4' src='assets/images/edit-file-step-4.png' alt='Screenshot of Editing a file - step 4'>
+<img id='edit-file-step-5' src='assets/images/edit-file-step-5.png' alt='Screenshot of Editing a file - step 5'>
 
 ### Adding a new file
 
-You can click on the following link to skip to step 4 of the process:
-[Create new File](https://github.com/tagnw/mentorship-knowledgebase/new/dev)
+If something you have to contribute doesn't fit into anything else and you need
+to add a new file, here is how you can add a new file:
 
 1. Go to the root of the repository: [tagnw/mentorship-knowledgebase](https://github.com/tagnw/mentorship-knowledgebase)
 1. [Click on `Add file`](#add-file-step-2)
@@ -32,10 +56,6 @@ You can click on the following link to skip to step 4 of the process:
 <img id='add-file-step-3' src='assets/images/add-file-step-3.png' alt='Screenshot of Adding a file - step 3'>
 <img id='add-file-step-4' src='assets/images/add-file-step-4.png' alt='Screenshot of Adding a file - step 4'>
 <img id='add-file-step-5' src='assets/images/add-file-step-5.png' alt='Screenshot of Adding a file - step 5'>
-
-### Editing an existing file
-
-TODO
 
 ## General Recommendations
 
