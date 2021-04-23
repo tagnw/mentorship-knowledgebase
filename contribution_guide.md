@@ -5,7 +5,13 @@
    * [What are the differences between the types of resources?](#what-are-the-differences-between-the-types-of-resources)
 * [How to add articles, books, and websites](#how-to-add-articles-books-and-websites)
 
+
 ## How to edit or add files
+
+## But first...resources for understanding the GitHub's Markdown editing language
+GitHub uses its own version of Markdown, which is a way to format text using control characters/symbols.
+Here is a tutorial on Markdown use:  https://guides.github.com/features/mastering-markdown/
+...and here is a cheatsheet if you don't want the full tutorial:  https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 
 ### Editing an existing file
 
